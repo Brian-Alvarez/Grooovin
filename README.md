@@ -10,5 +10,3 @@ The objectives to be implemented through this app were as follows:
 - Obtain a Spotify user's access token  
 - Send a search request to the Spotify API  
 - Save a user’s playlist to their Spotify account  
-
-You can visit the site at https://grooovin.surge.sh
